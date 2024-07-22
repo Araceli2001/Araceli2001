@@ -1,16 +1,23 @@
-Bienvenido a mi peerfil
+👋 ¡Bienvenid@s a mi perfil de Github!
 
-<!--
-**Araceli2001/Araceli2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desde pequeña, siempre me sentí atraída por el mundo de la tecnología. A mis 12 años, desarrollé mi primer mini proyecto y creé una calculadora
+con código. 🤓 Me asombró ver cómo cada línea hacía cosas increíbles. Durante el bachillerato, comprendí mejor la programación y en la 
+universidad apliqué mis conocimientos más a fondo. 🎓
 
-Here are some ideas to get you started:
+🛠️ Mis tecnologías:
+   * HTML
+   * CSS
+   * Tailwind CSS
+   * React
+   * Next.js
+   * Laravel
+   * SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💖 Lo que me gusta hacer:
+Me encanta aprender cosas nuevas, enfrentar retos, compartir y ayudar. 🚀🌟
+
+
+
+
+
+
